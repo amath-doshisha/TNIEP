@@ -6,5 +6,5 @@ Code for Totally Nonnegative Inverse Eigenvalue Problem
 - Kanae Akaiwa, Yoshimasa Nakamura, Masashi Iwasaki, Akira Yoshida and Koichi Kondo, "An arbitrary band structure construction of totally nonnegative matrices with prescribed eigenvalues", Numerical Algorithms, Vol. ??, (201?), pp. ???-???.
 
 ## List of files
-- TNEIP.nb is Mathematica code, which can generates totally nonnegative and band matrix with any prescreibed eigenvales.
+- TNEIP.nb is Mathematica code, which generates totally nonnegative and band matrix with any prescreibed eigenvales.
 - TNEIP.pdf is pdf of snapshot of Mathematica code.
